@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#bfbfbf" height="23" id="svg_11" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="640" x="0.5" y="291.5"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(5.54464 0 0 5.5 -1080.84 -915.75)" x="273.303542" xml:space="preserve" y="217.954545">MATT</text>
+  <circle cx="217.5" cy="294.5" fill="#ff0000" id="svg_3" r="11.401754" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <circle cx="188.5" cy="248.5" fill="#00ff00" id="svg_6" r="23.706539" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  <circle cx="203.5" cy="168.5" fill="#007fff" id="svg_9" r="33.301652" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+ </g>
+</svg>
